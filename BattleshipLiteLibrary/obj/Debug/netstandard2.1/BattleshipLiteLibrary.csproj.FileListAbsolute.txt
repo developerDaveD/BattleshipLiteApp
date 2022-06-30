@@ -1,0 +1,10 @@
+/Users/davedonatuccio/Projects/BattleshipLiteApp/BattleshipLiteLibrary/bin/Debug/netstandard2.1/BattleshipLiteLibrary.deps.json
+/Users/davedonatuccio/Projects/BattleshipLiteApp/BattleshipLiteLibrary/bin/Debug/netstandard2.1/BattleshipLiteLibrary.dll
+/Users/davedonatuccio/Projects/BattleshipLiteApp/BattleshipLiteLibrary/bin/Debug/netstandard2.1/BattleshipLiteLibrary.pdb
+/Users/davedonatuccio/Projects/BattleshipLiteApp/BattleshipLiteLibrary/obj/Debug/netstandard2.1/BattleshipLiteLibrary.csproj.AssemblyReference.cache
+/Users/davedonatuccio/Projects/BattleshipLiteApp/BattleshipLiteLibrary/obj/Debug/netstandard2.1/BattleshipLiteLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davedonatuccio/Projects/BattleshipLiteApp/BattleshipLiteLibrary/obj/Debug/netstandard2.1/BattleshipLiteLibrary.AssemblyInfoInputs.cache
+/Users/davedonatuccio/Projects/BattleshipLiteApp/BattleshipLiteLibrary/obj/Debug/netstandard2.1/BattleshipLiteLibrary.AssemblyInfo.cs
+/Users/davedonatuccio/Projects/BattleshipLiteApp/BattleshipLiteLibrary/obj/Debug/netstandard2.1/BattleshipLiteLibrary.csproj.CoreCompileInputs.cache
+/Users/davedonatuccio/Projects/BattleshipLiteApp/BattleshipLiteLibrary/obj/Debug/netstandard2.1/BattleshipLiteLibrary.dll
+/Users/davedonatuccio/Projects/BattleshipLiteApp/BattleshipLiteLibrary/obj/Debug/netstandard2.1/BattleshipLiteLibrary.pdb

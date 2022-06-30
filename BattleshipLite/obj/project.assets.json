@@ -1,0 +1,88 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "BattleshipLiteLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/BattleshipLiteLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BattleshipLiteLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BattleshipLiteLibrary/1.0.0": {
+      "type": "project",
+      "path": "../BattleshipLiteLibrary/BattleshipLiteLibrary.csproj",
+      "msbuildProject": "../BattleshipLiteLibrary/BattleshipLiteLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "BattleshipLiteLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/davedonatuccio/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/davedonatuccio/Projects/BattleshipLiteApp/BattleshipLite/BattleshipLite.csproj",
+      "projectName": "BattleshipLite",
+      "projectPath": "/Users/davedonatuccio/Projects/BattleshipLiteApp/BattleshipLite/BattleshipLite.csproj",
+      "packagesPath": "/Users/davedonatuccio/.nuget/packages/",
+      "outputPath": "/Users/davedonatuccio/Projects/BattleshipLiteApp/BattleshipLite/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/davedonatuccio/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "/Users/davedonatuccio/Projects/BattleshipLiteApp/BattleshipLiteLibrary/BattleshipLiteLibrary.csproj": {
+              "projectPath": "/Users/davedonatuccio/Projects/BattleshipLiteApp/BattleshipLiteLibrary/BattleshipLiteLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
